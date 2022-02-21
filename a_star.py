@@ -201,7 +201,6 @@ def main(win, width):
     close = False
     run = True
     complete = False
-    print("Zmiana")
 
     while run:
         draw(win, grid, ROWS, width)
