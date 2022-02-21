@@ -192,6 +192,7 @@ def get_clicked_pos(pos, rows, width):
     return row, col
 
 def main(win, width):
+    print("Zmiana")
     ROWS = 50
     grid = make_grid(ROWS, width)
 
