@@ -1,3 +1,5 @@
+# IMPORTANT: Majority of this code was taken from an online course, it's not mine and was only intended for learning purposes (although i tried to modify it while learning)
+
 A* algorythm visualisation program
 
 To start the program user needs to define start and finish by clicking left mouse button.
